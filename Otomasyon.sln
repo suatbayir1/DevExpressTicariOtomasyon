@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otomasyon", "Otomasyon\Otomasyon.csproj", "{623AABFB-82DD-4EF5-B248-7AE5DDE9C7C3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DevexpressOtomasyon", "DevexpressOtomasyon\DevexpressOtomasyon.vdproj", "{213D3179-324D-49FD-954A-7C8CAA9E5AD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{623AABFB-82DD-4EF5-B248-7AE5DDE9C7C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623AABFB-82DD-4EF5-B248-7AE5DDE9C7C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623AABFB-82DD-4EF5-B248-7AE5DDE9C7C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623AABFB-82DD-4EF5-B248-7AE5DDE9C7C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{213D3179-324D-49FD-954A-7C8CAA9E5AD2}.Debug|Any CPU.ActiveCfg = Debug
+		{213D3179-324D-49FD-954A-7C8CAA9E5AD2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EE86C53-9720-465E-83A8-AF95262E9311}
+	EndGlobalSection
+EndGlobal
